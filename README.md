@@ -1,7 +1,7 @@
 ## Hi there, I'm Neha👋
 
-- 🔭 I’m currently making Rest Api projects
-- 🌱 I’m learning Java and Angular
+- 🔭 Currently making Rest Api projects
+- 🌱 Learning Java and Angular
 - ⚡ Fun fact: I'm a dota 2 enjoyer
 
 
