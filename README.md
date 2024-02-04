@@ -1,6 +1,6 @@
 ## Hi there, I'm Neha👋
 
-- 🔭 Currently making Rest Api projects
+- 🔭 Currently making SpringBoot Rest Api projects
 - 🌱 Learning Java and Angular
 - ⚡ Fun fact: I'm a dota 2 enjoyer
 
